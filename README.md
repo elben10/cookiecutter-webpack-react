@@ -1,6 +1,6 @@
 # cookiecutter-webpack-react
 
-Is my first take on a very simple react setup using webpack
+It's my first take on a very simple react setup using webpack
 
 ## Installation
 
